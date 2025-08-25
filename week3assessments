@@ -1,0 +1,18 @@
+
+1. Create an interactive LOAN CALCULATOR application using Streamlit and Python, where users can input multiple details such as name, age, deposit, interest, duration, and more. 
+Use different input types such as text, numbers, toggles, sliders, and checkboxes, and return the results with multiple graphs and dataframes. 
+Finally, deploy the web app on Streamlit Cloud. and submit both github repo and live website URL
+LINKS - 
+https://colab.research.google.com/drive/1WGvvKKNF9HLV0IOMJ7S9cE_IlttlXWZW?usp=sharing
+Your quick Tunnel has been created! Visit it at (it may take some time to be reachable):
+https://loved-pool-diversity-similarly.trycloudflare.com  
+
+
+2. Build a Streamlit chat app using an LLM (Groq/OpenAI) session state, and streaming responses. Deploy it on Streamlit Cloud and submit both the live URL and GitHub repo.
+https://colab.research.google.com/drive/14ky3u9xWnegtFNlsKjtCFiD9uHO4iUW_?usp=sharing
+Public URL: NgrokTunnel: "https://b1d92fc3dd6a.ngrok-free.app" -> "http://localhost:8501"
+
+
+3.Build a complete AI agent app with Streamlit (chat + tools + memory) Simple Multi-Agent RAG System
+https://colab.research.google.com/drive/1ZIlv75Y-5_w3g6gVYXtwLxHwZuComwr6?usp=sharing
+Public URL: NgrokTunnel: "https://142ed40c233e.ngrok-free.app" -> "http://localhost:8501"
