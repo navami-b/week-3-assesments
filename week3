@@ -4,13 +4,13 @@ Use different input types such as text, numbers, toggles, sliders, and checkboxe
 Finally, deploy the web app on Streamlit Cloud. and submit both github repo and live website URL
 Links - 
 https://colab.research.google.com/drive/1WGvvKKNF9HLV0IOMJ7S9cE_IlttlXWZW?usp=sharing
-Public URL: https://loved-pool-diversity-similarly.trycloudflare.com  
+
 
 
 2. Build a Streamlit chat app using an LLM (Groq/OpenAI) session state, and streaming responses. Deploy it on Streamlit Cloud and submit both the live URL and GitHub repo.
 Links -
 https://colab.research.google.com/drive/14ky3u9xWnegtFNlsKjtCFiD9uHO4iUW_?usp=sharing
-Public URL: NgrokTunnel: "https://b1d92fc3dd6a.ngrok-free.app" -> "http://localhost:8501"
+
 
 
 3.Build a complete AI agent app with Streamlit (chat + tools + memory) Simple Multi-Agent RAG System
