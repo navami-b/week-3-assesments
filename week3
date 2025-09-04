@@ -1,4 +1,4 @@
-
+PS: Please run the entire Colab code to get the right streamlit link
 1. Create an interactive LOAN CALCULATOR application using Streamlit and Python, where users can input multiple details such as name, age, deposit, interest, duration, and more. 
 Use different input types such as text, numbers, toggles, sliders, and checkboxes, and return the results with multiple graphs and dataframes. 
 Finally, deploy the web app on Streamlit Cloud. and submit both github repo and live website URL
